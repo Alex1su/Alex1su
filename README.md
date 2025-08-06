@@ -13,7 +13,7 @@
 - 😄 Prononomes: ela/dela
 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex1su&show_icons=true&theme=transparent)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex1su&show_icons=false&theme=transparent)
 
 <div>
   
